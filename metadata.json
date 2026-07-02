@@ -1,0 +1,6 @@
+{
+  "name": "經典貪食蛇遊戲",
+  "description": "經典貪食蛇遊戲，配有本地積分排行榜、多種遊戲模式、精緻的霓虹復古視覺，並支持鍵盤與行動裝置點擊操控。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
